@@ -1,0 +1,3 @@
+用户主目录  .ssh 
+$ ssh-keygen -t rsa -C "youremail@example.com"
+
