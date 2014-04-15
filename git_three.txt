@@ -7,5 +7,5 @@ $git branch 查看当前分支
 i'm tiger!!
 
 Creating a new branch is quick.
-Creating a new branch is quick & simple.
+Creating a new branch is qucik and simple
 
