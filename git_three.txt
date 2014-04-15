@@ -1,0 +1,7 @@
+$ git checkout  -b dev   新建一个分支
+表示创建并切换的意思
+相当于 
+$git branch dev
+$git checkout dev
+$git branch 查看当前分支
+
