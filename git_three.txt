@@ -8,4 +8,5 @@ i'm tiger!!
 
 Creating a new branch is quick.
 Creating a new branch is qucik and simple
+git log --graph 
 
